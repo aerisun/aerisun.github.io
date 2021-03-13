@@ -1,10 +1,8 @@
-# Aerisun: Better Data-science internship programs for Milwaukee-area employers and undergraduates
+# Join Aerisun's internship program for Milwaukee-area employers and undergraduates
 
 ## The problem with internships in data science
 
 Traditional summer internships in data science are suboptimal.  A summer is too short to dig into a real-world data science problem.  So interns are given make-work problems instead.  But then, at the conclusion of summer, the employer does not know how whether the intern can solve real-world problems, and the intern does not know whether he will enjoy working on real-world problems.  
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Aerisun's solution
 
@@ -14,7 +12,7 @@ Employers often don't hire interns for a full year either because interns attend
 
 ## How it works
 
-When a Milwaukee-area employer agrees to hire an intern, Aerisun, in collaboration with the employer, will recruit an undergraduate intern.  The employer will assign a data-science problem, and then Aerisun will train the intern and work collaboratively with him to make progress on the problem.  Regular meetings with the employer will be scheduled to keep the project on track.
+When a Milwaukee-area employer agrees to hire an intern, then Aerisun, in collaboration with the employer, recruits an undergraduate intern.  The employer assigns a data-science problem, and then Aerisun trains the intern and works collaboratively with him.  Regular meetings with the employer are held to keep the project on track.
 
 
 ## Contact Information
