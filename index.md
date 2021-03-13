@@ -1,6 +1,6 @@
-# Join Aerisun's internship program for Milwaukee-area employers and undergraduates
+# Aerisun's internship program
 
-## The problem with internships in data science
+## The problem with traditional internships in data science
 
 Traditional summer internships in data science are suboptimal.  A summer is too short to dig into a real-world data science problem.  So interns are given make-work problems instead.  But then, at the conclusion of summer, the employer does not know how whether the intern can solve real-world problems, and the intern does not know whether he will enjoy working on real-world problems.  
 
