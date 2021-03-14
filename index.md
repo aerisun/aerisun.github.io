@@ -23,7 +23,7 @@ When a Milwaukee-area employer agrees to hire an intern, then:
 
 Work continues full-time during the summer and part-time during the school year.
 
-The goal is two-fold: 
+## Aerisun's goal is two-fold: 
     
 1.  to train the future data science workforce of Milwaukee-area employers, and 
 1.  in so doing, to solve specific data-science problems that are meaningful to those employers.
