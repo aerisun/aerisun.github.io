@@ -6,7 +6,7 @@ A summer is too short to dig into a real-world data science problem.  So interns
 
 ## The solution is to maintain an internship for at least a year.  
 
-Then the intern will have time to learn a larger code base, fix tougher bugs, and come back to documentation he wrote six months earlier and discover how unclear it is!  The intern might even shed light on a problem that is of real interest to the employer.
+Then the intern will have time to learn a larger code base, fix tougher bugs, and come back to documentation he wrote six months earlier and discover how unclear it is!  The intern might even have enough time to shed light on a problem that is of real interest to the employer.
 
 Employers often don't employ undergraduate interns for a full year either because the interns attend school out of town or because training interns is so time consuming.  To circumvent these problems, Aerisun hires undergraduate interns from Milwaukee universities (UWM, MSOE, and Marquette) and takes on the responsibility of training those interns in data science. 
 
