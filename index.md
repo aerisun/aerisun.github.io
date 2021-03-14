@@ -17,7 +17,7 @@ Employers often don't employ undergraduate interns for a full year either becaus
 When a Milwaukee-area employer agrees to hire an intern, then:
 
 1.  Aerisun works with the employer to recruit an undergraduate intern.  
-1.  The employer assigns a data-science problem.
+1.  The employer assigns a data-science problem of practical interest.
 1.  Aerisun and the intern work on the problem, in collaboration with the employer.  
 1.  Regular meetings with the employer are held to keep the project on track.  
 
