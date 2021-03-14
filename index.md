@@ -1,4 +1,4 @@
-# <span style="color: #155799;"> Aerisun's internship program </span>
+# <span style="color: #155799;"> **Aerisun's internship program** </span>
 
 ## Traditional summer internships in data science are broken.  
 
