@@ -10,11 +10,20 @@ Then the intern will have time to learn a larger code base, fix tougher bugs, an
 
 Employers often don't employ undergraduate interns for a full year either because the interns attend school out of town or because training interns is so time consuming.  To circumvent these problems, Aerisun hires undergraduate interns from Milwaukee universities (UWM, MSOE, and Marquette) and takes on the responsibility of training those interns in data science.  Aerisun has a long history of working with undergraduates at UWM and MSOE. 
 
-## How Aerisun's internship program works:
+## Aerisun trains data-science students year round
 
-When a Milwaukee-area employer agrees to hire an intern, then Aerisun, in collaboration with the employer, recruits an undergraduate intern.  The employer assigns a data-science problem, and then, to address the problem, Aerisun trains the intern and works collaboratively with him and the employer.  Regular meetings with the employer are held to keep the project on track.  Work continues full-time during the summer and part-time during the school year.
+When a Milwaukee-area employer agrees to hire an intern, then:
 
-The goal is two-fold: to train the future data scientists of Milwaukee-area employers, and in so doing, to address specific data-science problems that are meaningful to those employers.
+1.  Aerisun works with the employer to recruit an undergraduate intern.  
+1.  The employer assigns a data-science problem.
+1.  Aerisun and the intern work on the problem, in collaboration with the employer.  
+
+Regular meetings with the employer are held to keep the project on track.  Work continues full-time during the summer and part-time during the school year.
+
+The goal is two-fold: 
+    
+1.  to train the future data scientists of Milwaukee-area employers, and 
+1.  in so doing, to address specific data-science problems that are meaningful to those employers.
 
 ## Contact Information
 
