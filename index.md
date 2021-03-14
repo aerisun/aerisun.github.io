@@ -4,7 +4,7 @@
 
 A summer is too short to dig into a real-world data science problem.  Instead, a typical intern is given a practice exercise.  But then the employer will not learn how the intern grapples with real-world problems, and the intern will not learn whether he or she truly enjoys working on them!  
 
-## The solution is to maintain an internship for at least a year.  
+## The solution is to lengthen the internship to at least a year.  
 
 Then the intern will have time to learn a larger code base, fix tougher bugs, and come back to documentation he wrote six months earlier (and perhaps discover how unclear it is!).  The intern might even have enough time to shed light on a problem that is of real interest to the employer.
 
