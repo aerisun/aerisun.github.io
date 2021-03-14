@@ -2,7 +2,7 @@
 
 ## Traditional summer internships in data science are broken.  
 
-A summer is too short to dig into a real-world data science problem.  So interns are typically given practice exercises instead.  But then the employer will not learn how the intern grapples with real-world problems, and the intern will not learn whether he truly enjoys working on them!  
+A summer is too short to dig into a real-world data science problem.  So interns are typically given practice exercises instead.  But then the employer will not learn how the intern grapples with real-world problems, and the intern will not learn whether he or she truly enjoys working on them!  
 
 ## The solution is to maintain an internship for at least a year.  
 
