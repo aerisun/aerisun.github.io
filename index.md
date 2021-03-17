@@ -2,7 +2,7 @@
 
 ##  Building a pipeline of data science talent is tough.
 
-And hiring outside data science consultants costs too much. But both problems could be addressed if interns could be brought up to speed on relevant data science projects.  Unfortunately . . .
+And hiring outside data science consultants costs too much. But both problems could be addressed if interns could be brought up to speed on in-house data science projects.  Unfortunately . . .
 
 ## Traditional summer internships in data science are broken.  
 
