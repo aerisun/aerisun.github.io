@@ -1,5 +1,9 @@
 # <span style="color: #155799;"> **Aerisun LLC's internship program** </span>
 
+##  Building a pipeline of data science talent is tough.
+
+And hiring outside data science consultants costs too much. But both problems could be addressed if interns could be brought up to speed on relevant data science projects.  Unfortunately . . .
+
 ## Traditional summer internships in data science are broken.  
 
 A summer is too short to dig into a real-world data science problem.  Instead, a typical intern is given a practice exercise.  But then the employer will not learn how the intern grapples with real-world problems, and the intern will not learn whether he or she truly enjoys working on them!  
